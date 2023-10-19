@@ -47,4 +47,5 @@ body{
     border: none;
     background-color: var(--verde-padrao);
     translate:0 25px;
+    cursor: pointer;
 }
